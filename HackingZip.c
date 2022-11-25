@@ -161,3 +161,8 @@ int abrirZip(char clave[], char archivo[])
     //no se puedo encontrar
     return 0;
 }
+
+
+// prueba
+
+printf("prueba")
